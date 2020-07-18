@@ -1,5 +1,5 @@
 # anime-search-facebook-bot
-a facebook bot that search anime through vuighe git
+a facebook bot that search anime with vuighe api
 
 > A simple project xd.
 
